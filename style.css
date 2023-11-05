@@ -1,0 +1,24 @@
+/* 
+.bulb{
+    height: 300px;
+    width: 300px;
+    border: 2px solid darkcyan;
+    border-radius: 200px;
+    margin: auto;
+}
+
+.on{
+    padding: 20px 50px;
+    margin: 40px 40%;
+} */
+
+
+.night svg{
+    margin-left: 70px;
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
